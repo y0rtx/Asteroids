@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="Arrancar">Play</string>
+    <string name="Configurar">Configure</string>
+    <string name="Puntuaciones">Puntuations</string>
+    <string name="Acercade">About</string>
+    <string name="Salir">Exit</string>
+    <string name="tituloAplicacion">Asteroids</string>
+    <string name="textoAcercaDe">This program has been developed like an example in the Android course to show how how new activities can be launched from the main activity.</string>
+    <string name="acercaDePuntos">About &#8230;</string>
+
+</resources>

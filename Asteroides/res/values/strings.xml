@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="Arrancar">Jugar</string>
+    <string name="Configurar">Configurar</string>
+    <string name="Puntuaciones">Puntuaciones</string>
+    <string name="Acercade">Acerca de</string>
+    <string name="Salir">Salir</string>
+    <string name="tituloAplicacion">Asteroides</string>
+    <string name="textoAcercaDe">Este programa ha sido desarrollado como ejemplo en el curso de Android para demostrar cómo se pueden lanzar nuevas actividades desde la actividad principal.</string>
+    <string name="acercaDePuntos">Acerca de &#8230;</string>
+
+</resources>

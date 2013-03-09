@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/config" android:icon="@android:drawable/ic_menu_preferences" android:title="@string/Configurar"></item>
+    <item android:id="@+id/acercaDe" android:icon="@android:drawable/ic_menu_info_details" android:title="@string/acercaDePuntos"></item>
+    <item android:id="@+id/salir" android:icon="@android:drawable/ic_menu_close_clear_cancel" android:title="@string/Salir"></item>
+</menu>
