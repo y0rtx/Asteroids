@@ -3,10 +3,11 @@
     android:id="@+id/TableLayout"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
+    android:background="@drawable/degradado"
     android:gravity="center"
     android:padding="30dp"
-    tools:context=".Asteroides" 
-    android:stretchColumns="*">
+    android:stretchColumns="*"
+    tools:context=".Asteroides" >
 
     <TextView
         style="@style/TextoAsteroides"
